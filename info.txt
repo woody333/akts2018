@@ -1,0 +1,9 @@
+1) git init
+2) git clone <repo> 
+3) git checkout master 
+4) mkdir....
+5) git add * (nach git status) 
+6) git commit -m "Kommentar" 
+7) git push 
+8) änderungen auf anderem rechner
+9) git pull 
